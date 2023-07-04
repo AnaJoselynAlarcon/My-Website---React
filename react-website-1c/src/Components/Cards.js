@@ -40,8 +40,8 @@ function Cards() {
             <CardItem
               src="images/img-8.jpg"
               text="React Website"
-              label="Adrenaline"
-              path="/sign-up"
+              label="React, javascript, css, html"
+              path="https://github.com/AnaJoselynAlarcon/My-Website---React"
             />
           </ul>
         </div>
